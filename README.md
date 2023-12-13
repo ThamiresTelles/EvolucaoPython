@@ -1,2 +1,0 @@
-# EvolucaoPython
-Especialização Python
